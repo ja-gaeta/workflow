@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ja-gaeta/workflow/issues"
   },
-  "homepage": "https://github.com/ja-gaeta/workflow#readme"
+  "homepage": "https://github.com/ja-gaeta/workflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
